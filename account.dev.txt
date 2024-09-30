@@ -1,7 +1,7 @@
 [
 {
     "domain": ".facebook.com",
-    "expirationDate": 1759241973.787127,
+    "expirationDate": 1759242295.713653,
     "hostOnly": false,
     "httpOnly": false,
     "name": "c_user",
@@ -10,12 +10,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "61564749537360",
+    "value": "61555432404409",
     "id": 1
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1762265826.705757,
+    "expirationDate": 1762266846.139135,
     "hostOnly": false,
     "httpOnly": true,
     "name": "datr",
@@ -29,7 +29,7 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1759241977,
+    "expirationDate": 1759242844,
     "hostOnly": false,
     "httpOnly": false,
     "name": "fbl_st",
@@ -38,12 +38,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "101223471%3BT%3A28795099",
+    "value": "101331837%3BT%3A28795114",
     "id": 3
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1735481973.787638,
+    "expirationDate": 1735482295.714313,
     "hostOnly": false,
     "httpOnly": true,
     "name": "fr",
@@ -52,7 +52,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "0l9dFtKpzsU3CQyL8.AWXu-cokMrABqU9rD545NNNPL7Q.Bm2z-E..AAA.0.0.Bm-rN1.AWXqeAM_F08",
+    "value": "0l9dFtKpzsU3CQyL8.AWXWyu39RzG5qQs9mbh3GNdKgRc.Bm2z-E..AAA.0.0.Bm-rS2.AWX9qhDK-H8",
     "id": 4
 },
 {
@@ -71,33 +71,6 @@
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1735481977.062278,
-    "hostOnly": false,
-    "httpOnly": true,
-    "name": "m_page_voice",
-    "path": "/",
-    "sameSite": "lax",
-    "secure": true,
-    "session": false,
-    "storeId": "0",
-    "value": "61564749537360",
-    "id": 6
-},
-{
-    "domain": ".facebook.com",
-    "hostOnly": false,
-    "httpOnly": false,
-    "name": "m_pixel_ratio",
-    "path": "/",
-    "sameSite": "unspecified",
-    "secure": true,
-    "session": true,
-    "storeId": "0",
-    "value": "2",
-    "id": 7
-},
-{
-    "domain": ".facebook.com",
     "expirationDate": 1760205662.856678,
     "hostOnly": false,
     "httpOnly": true,
@@ -108,7 +81,7 @@
     "session": false,
     "storeId": "0",
     "value": "1",
-    "id": 8
+    "id": 6
 },
 {
     "domain": ".facebook.com",
@@ -122,11 +95,11 @@
     "session": false,
     "storeId": "0",
     "value": "1",
-    "id": 9
+    "id": 7
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1762265973.787846,
+    "expirationDate": 1762266295.714601,
     "hostOnly": false,
     "httpOnly": true,
     "name": "sb",
@@ -136,11 +109,11 @@
     "session": false,
     "storeId": "0",
     "value": "hD_bZucWtJAgdw9EYJPeIy0b",
-    "id": 10
+    "id": 8
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1732889977,
+    "expirationDate": 1732890844,
     "hostOnly": false,
     "httpOnly": false,
     "name": "vpd",
@@ -150,11 +123,11 @@
     "session": false,
     "storeId": "0",
     "value": "v1%3B710x360x2",
-    "id": 11
+    "id": 9
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1728310771,
+    "expirationDate": 1728311090,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wd",
@@ -164,11 +137,11 @@
     "session": false,
     "storeId": "0",
     "value": "360x710",
-    "id": 12
+    "id": 10
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1735481976,
+    "expirationDate": 1735482844,
     "hostOnly": false,
     "httpOnly": false,
     "name": "wl_cbv",
@@ -177,12 +150,12 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "v2%3Bclient_version%3A2635%3Btimestamp%3A1727705976",
-    "id": 13
+    "value": "v2%3Bclient_version%3A2635%3Btimestamp%3A1727706844",
+    "id": 11
 },
 {
     "domain": ".facebook.com",
-    "expirationDate": 1759241973.788041,
+    "expirationDate": 1759242295.714865,
     "hostOnly": false,
     "httpOnly": true,
     "name": "xs",
@@ -191,7 +164,7 @@
     "secure": true,
     "session": false,
     "storeId": "0",
-    "value": "43%3ATHuH6cihBBns3g%3A2%3A1727705973%3A-1%3A7843",
-    "id": 14
+    "value": "6%3AfYA74rlFS7cgzQ%3A2%3A1727706294%3A-1%3A7715",
+    "id": 12
 }
 ]
